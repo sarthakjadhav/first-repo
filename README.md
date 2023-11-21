@@ -1,3 +1,4 @@
 # first-repo
-first repo<br> 
-owner of the repo : sarthak jadhav <br>
+first repo
+<br> 
+owner of the repo : sarthak jadhav 
